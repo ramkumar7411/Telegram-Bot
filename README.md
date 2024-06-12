@@ -81,29 +81,3 @@ Open your terminal and follow the instructions to run the bot.
     python start.py
     ```
 
-## Deploy to Heroku 🚀
-
-You can click this button to deploy to Heroku.
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aahnik/run-py-bot)
-
-For more details [read the guide](https://github.com/aahnik/run-py-bot/issues/18) about Heroku deployment.
-
-## Changelog 🔖
-
-See the [Releases](https://github.com/aahnik/run-py-bot/releases) tab for more info.
-
-## Contributing ✨
-
-Issues and PRs welcome!
-
-If planning to contribute code, Read the docstrings in the code for details. You will find lots of helpful links to stack overflow and documentation of libraries used.
-
-Here are some useful links:
-
-1. [How to deploy a telegram bot to Heroku](https://github.com/aahnik/webhook-aiogram-heroku#webhook-aiogram-heroku)
-2. [Telegram Bot API Documentaion](https://core.telegram.org/bots/api)
-3. [Aiogram Examples](https://github.com/aiogram/aiogram/tree/dev-2.x/examples)
-4. [The Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-5. [What are webhooks](https://www.youtube.com/results?search_query=webhooks)
-6. [How to use an API to run a piece of Python code](https://rextester.com/main)
