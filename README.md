@@ -1,7 +1,6 @@
 <p align="center">
 <img src="docs/images/Chatting%20with%20Python.png" alt="thumbnail" width=600px>
 </p>
-
 <h1 align="center"> run-py-bot </h1>
 
 <p align="center">
