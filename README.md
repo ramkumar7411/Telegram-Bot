@@ -6,14 +6,6 @@
 <p align="center">
 Run python code from your telegram chat!
 </p>
-
-<p align="center"><a href="https://github.com/aahnik/run-py-bot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/aahnik/run-py-bot" alt="GitHub license"></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="made-with-python"></a>
-<a href="https://telegram.me/aahnikdaw"><img src="https://img.shields.io/badge/chat-@aahnikdaw-blue?logo=telegram" alt="telegram-chat"></a>
-<a href="https://youtu.be/nCuQ-7Rw0gM"><img src="https://img.shields.io/youtube/views/nCuQ-7Rw0gM?style=social" alt="badge-youtube"></a></p>
-
-
-
 <!-- A simple bot that runs python code. Free and Open Source. For more info visit http://bit.ly/runPython -->
 
 > **UPDATE** I am no longer running this bot on my server. Please deploy your own instance to use.
